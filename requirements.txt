@@ -1,0 +1,22 @@
+# Core
+numpy
+pandas
+Pillow
+scikit-learn
+SimpleITK
+timm
+torch
+tqdm
+transformers
+
+# Radiomics feature extraction
+pyradiomics
+
+# Tabular models
+xgboost
+catboost
+tabpfn
+tabicl
+
+# Experiment tracking
+mlflow
